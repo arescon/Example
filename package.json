@@ -70,7 +70,7 @@
     "@types/react-select": "^3.0.10",
     "@types/redux-form": "^8.2.2",
     "awesome-typescript-loader": "^5.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "normalize.css": "^8.0.1",
     "query-string": "^6.10.1",
