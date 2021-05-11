@@ -71,7 +71,7 @@
     "@types/redux-form": "^8.2.2",
     "awesome-typescript-loader": "^5.2.1",
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "query-string": "^6.10.1",
     "react": "^16.12.0",
